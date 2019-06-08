@@ -49,7 +49,10 @@ class IAPlayer(Player):
         return input_player
 
     def make_choice_smarter(self):
+<<<<<<< HEAD
         #test
+=======
+>>>>>>> 8d2bbc5996199997585bc0197fe1d67a0e7bbfeb
         print(self.possible_moves)
 
         scores = []
